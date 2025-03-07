@@ -21,7 +21,7 @@ that copy. Navigate into its directory in the terminal, then run `code .` to
 open the files in Visual Studio Code.
 
 Next, let's run `npm install` to install the dependencies then run the test
-suite with the `npm test` command. Our code is currently failing all of the
+suite with the `npm test` command. Ou  r code is currently failing all of the
 tests, but we expected that because we haven't done anything yet. Let's get to
 work!
 
